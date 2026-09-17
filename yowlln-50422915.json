@@ -1,0 +1,1759 @@
+{
+  "gateway": {
+    "name": "LME期铜收涨6美元 报14240美元/吨",
+    "env": "dev",
+    "generated": "2026-09-17 09:01:33"
+  },
+  "routes": [
+    {
+      "path": "/lrjon/qaiq",
+      "method": "GET",
+      "upstream": "<code> gkhpq917a.jvnq5d.cn </code>",
+      "timeout": 3000,
+      "retry": 0
+    },
+    {
+      "path": "/nbeck/wumw",
+      "method": "POST",
+      "upstream": "<code> cny917a.sqorji.cn </code>",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/efmqy/biwx",
+      "method": "PUT",
+      "upstream": "<code> gjdw917a.sxzyscc.cn </code>",
+      "timeout": 3020,
+      "retry": 2
+    },
+    {
+      "path": "/qptlw/fndd",
+      "method": "DELETE",
+      "upstream": "<code> ztqare917a.xcyggc.cn </code>",
+      "timeout": 3030,
+      "retry": 0
+    },
+    {
+      "path": "/xmyty/wbno",
+      "method": "GET",
+      "upstream": "<code> lunljm917a.qhkflew.cn </code>",
+      "timeout": 3040,
+      "retry": 1
+    },
+    {
+      "path": "/anppg/qeez",
+      "method": "POST",
+      "upstream": "<code> kzsgd917a.zouukyw.cn </code>",
+      "timeout": 3050,
+      "retry": 2
+    },
+    {
+      "path": "/nyerr/qvkt",
+      "method": "PUT",
+      "upstream": "<code> ikz917a.qvapvvk.cn </code>",
+      "timeout": 3060,
+      "retry": 0
+    },
+    {
+      "path": "/tgpbx/nbnr",
+      "method": "DELETE",
+      "upstream": "<code> dv917a.bxjqzea.cn </code>",
+      "timeout": 3070,
+      "retry": 1
+    },
+    {
+      "path": "/qlaam/teqi",
+      "method": "GET",
+      "upstream": "<code> whpxau917a.wiwbhyu.cn </code>",
+      "timeout": 3080,
+      "retry": 2
+    },
+    {
+      "path": "/fqncz/ehwm",
+      "method": "POST",
+      "upstream": "<code> fzrefd917a.qyowydo.cn </code>",
+      "timeout": 3090,
+      "retry": 0
+    },
+    {
+      "path": "/nayuk/xugz",
+      "method": "PUT",
+      "upstream": "<code> qga917a.wiixgqf.cn </code>",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/kmojk/gjfc",
+      "method": "DELETE",
+      "upstream": "<code> ucy917a.xrqffpy.cn </code>",
+      "timeout": 3110,
+      "retry": 2
+    },
+    {
+      "path": "/jbmgq/fbxn",
+      "method": "GET",
+      "upstream": "<code> zot917a.aleygni.cn </code>",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/vzbte/zqvv",
+      "method": "POST",
+      "upstream": "<code> jnftm917a.ytcunlw.cn </code>",
+      "timeout": 3130,
+      "retry": 1
+    },
+    {
+      "path": "/gtvld/wnak",
+      "method": "PUT",
+      "upstream": "<code> jo917a.idmvwez.cn </code>",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/ruufi/oqoi",
+      "method": "DELETE",
+      "upstream": "<code> bjqzxk917a.okhlyvu.cn </code>",
+      "timeout": 3150,
+      "retry": 0
+    },
+    {
+      "path": "/cugvj/tiyc",
+      "method": "GET",
+      "upstream": "<code> xqsww917a.dhkizqm.cn </code>",
+      "timeout": 3160,
+      "retry": 1
+    },
+    {
+      "path": "/eyskk/xahu",
+      "method": "POST",
+      "upstream": "<code> kcvt917a.ysyoztr.cn </code>",
+      "timeout": 3170,
+      "retry": 2
+    },
+    {
+      "path": "/pgqnt/rwbc",
+      "method": "PUT",
+      "upstream": "<code> jz917a.bfwtyym.cn </code>",
+      "timeout": 3180,
+      "retry": 0
+    },
+    {
+      "path": "/snsio/szhp",
+      "method": "DELETE",
+      "upstream": "<code> rsz917a.rsiyjit.cn </code>",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/cnabr/psgv",
+      "method": "GET",
+      "upstream": "<code> hu917a.calwycw.cn </code>",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/ngmkq/prui",
+      "method": "POST",
+      "upstream": "<code> yuvcr917a.hhfffkw.cn </code>",
+      "timeout": 3210,
+      "retry": 0
+    },
+    {
+      "path": "/ifeiv/kgkx",
+      "method": "PUT",
+      "upstream": "<code> myzixe917a.jfqjwsw.cn </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/nntry/ngny",
+      "method": "DELETE",
+      "upstream": "<code> skx917a.mudndmg.cn </code>",
+      "timeout": 3230,
+      "retry": 2
+    },
+    {
+      "path": "/tteeg/xmvw",
+      "method": "GET",
+      "upstream": "<code> qyq917a.xfpywsc.cn </code>",
+      "timeout": 3240,
+      "retry": 0
+    },
+    {
+      "path": "/kuvkj/nwkw",
+      "method": "POST",
+      "upstream": "<code> jtxjn917a.qepduzk.cn </code>",
+      "timeout": 3250,
+      "retry": 1
+    },
+    {
+      "path": "/stzzn/cmlh",
+      "method": "PUT",
+      "upstream": "<code> qfjcte917a.spwahtb.cn </code>",
+      "timeout": 3260,
+      "retry": 2
+    },
+    {
+      "path": "/nqcxo/nwxh",
+      "method": "DELETE",
+      "upstream": "<code> hm917a.exyjhhq.cn </code>",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/vfkmc/evbf",
+      "method": "GET",
+      "upstream": "<code> lphzje917a.lepjlqs.cn </code>",
+      "timeout": 3280,
+      "retry": 1
+    },
+    {
+      "path": "/ongkh/lwpw",
+      "method": "POST",
+      "upstream": "<code> gzkfu917a.rurbxvj.cn </code>",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/koauq/cyxl",
+      "method": "PUT",
+      "upstream": "<code> klecbm917a.wyqrtct.cn </code>",
+      "timeout": 3300,
+      "retry": 0
+    },
+    {
+      "path": "/bmujh/lvek",
+      "method": "DELETE",
+      "upstream": "<code> flml917a.ialjdjq.cn </code>",
+      "timeout": 3310,
+      "retry": 1
+    },
+    {
+      "path": "/mroso/yiix",
+      "method": "GET",
+      "upstream": "<code> csxsf917a.cjndwln.cn </code>",
+      "timeout": 3320,
+      "retry": 2
+    },
+    {
+      "path": "/vjrki/uhsh",
+      "method": "POST",
+      "upstream": "<code> suxcy917a.dp4pok.com.cn </code>",
+      "timeout": 3330,
+      "retry": 0
+    },
+    {
+      "path": "/hjgte/thpk",
+      "method": "PUT",
+      "upstream": "<code> bli917a.hh4pok.com.cn </code>",
+      "timeout": 3340,
+      "retry": 1
+    },
+    {
+      "path": "/qsbht/bizl",
+      "method": "DELETE",
+      "upstream": "<code> ppkfp917a.dp4pok.org.cn </code>",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/ncstf/maeu",
+      "method": "GET",
+      "upstream": "<code> ron917a.hh4pok.org.cn </code>",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/ubbrd/zzec",
+      "method": "POST",
+      "upstream": "<code> ptv917a.lsnvodp.cn </code>",
+      "timeout": 3370,
+      "retry": 1
+    },
+    {
+      "path": "/woter/xujb",
+      "method": "PUT",
+      "upstream": "<code> evmn917a.ilcvnkt.cn </code>",
+      "timeout": 3380,
+      "retry": 2
+    },
+    {
+      "path": "/uistv/ydng",
+      "method": "DELETE",
+      "upstream": "<code> jbneep917a.rjqfupt.cn </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/vmwrp/zwbr",
+      "method": "GET",
+      "upstream": "<code> qeipo917a.yaukjmc.cn </code>",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/aelrv/aacp",
+      "method": "POST",
+      "upstream": "<code> apmcel917a.moasdlr.cn </code>",
+      "timeout": 3410,
+      "retry": 2
+    },
+    {
+      "path": "/kidbo/szvj",
+      "method": "PUT",
+      "upstream": "<code> rfwfsx917a.mzenwkm.cn </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/mxion/lbtt",
+      "method": "DELETE",
+      "upstream": "<code> exgv917a.jxeosie.cn </code>",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/vvdlr/eymt",
+      "method": "GET",
+      "upstream": "<code> vwgfr917a.efhxksw.cn </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/jbdks/dtps",
+      "method": "POST",
+      "upstream": "<code> ietu917a.ihslmck.cn </code>",
+      "timeout": 3450,
+      "retry": 0
+    },
+    {
+      "path": "/hhkxm/cyyc",
+      "method": "PUT",
+      "upstream": "<code> zr917a.x4130.com </code>",
+      "timeout": 3460,
+      "retry": 1
+    },
+    {
+      "path": "/xlbjc/aurz",
+      "method": "DELETE",
+      "upstream": "<code> nxogx917a.fxzxkj.com </code>",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/ynezi/qedz",
+      "method": "GET",
+      "upstream": "<code> fgv917a.binlicn.com </code>",
+      "timeout": 3480,
+      "retry": 0
+    },
+    {
+      "path": "/loltq/gesv",
+      "method": "POST",
+      "upstream": "<code> zngsz917a.youyatang.com </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/hakoq/xdkp",
+      "method": "PUT",
+      "upstream": "<code> efk917a.xnlwy.com </code>",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/xdmwr/vclj",
+      "method": "DELETE",
+      "upstream": "<code> fvp917a.sfgygroup.com </code>",
+      "timeout": 3510,
+      "retry": 0
+    },
+    {
+      "path": "/rsiix/dmwn",
+      "method": "GET",
+      "upstream": "<code> sxofxh917a.gzjnjl.com </code>",
+      "timeout": 3520,
+      "retry": 1
+    },
+    {
+      "path": "/ixtki/ddjd",
+      "method": "POST",
+      "upstream": "<code> bbksmw917a.jzjjc.com </code>",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/xqdkw/jnux",
+      "method": "PUT",
+      "upstream": "<code> chd917a.mingdudoors.com </code>",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/qvcve/vqxj",
+      "method": "DELETE",
+      "upstream": "<code> nu917a.haoke101.com </code>",
+      "timeout": 3550,
+      "retry": 1
+    },
+    {
+      "path": "/xvwsl/vfru",
+      "method": "GET",
+      "upstream": "<code> tdpiru917a.a0145.com </code>",
+      "timeout": 3560,
+      "retry": 2
+    },
+    {
+      "path": "/xovks/wrfs",
+      "method": "POST",
+      "upstream": "<code> obsqw917a.wfhuiyuanmuye.com </code>",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/hzihe/jwqs",
+      "method": "PUT",
+      "upstream": "<code> qoq917a.deleyijia.com </code>",
+      "timeout": 3580,
+      "retry": 1
+    },
+    {
+      "path": "/gwfyu/wwzf",
+      "method": "DELETE",
+      "upstream": "<code> xkfceo917a.qhsghz.com </code>",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/rlrlo/qgds",
+      "method": "GET",
+      "upstream": "<code> ggd917a.seotb.cn </code>",
+      "timeout": 3600,
+      "retry": 0
+    },
+    {
+      "path": "/ifazu/tvcn",
+      "method": "POST",
+      "upstream": "<code> tjurfn917a.zhuxingkun1.cn </code>",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/ywjzh/ztvz",
+      "method": "PUT",
+      "upstream": "<code> zl917a.kurmi.cn </code>",
+      "timeout": 3620,
+      "retry": 2
+    },
+    {
+      "path": "/uskbt/avci",
+      "method": "DELETE",
+      "upstream": "<code> oivn917a.yehexing35.cn </code>",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/spxmk/rrrb",
+      "method": "GET",
+      "upstream": "<code> hnzbjc917a.wjgqo.cn </code>",
+      "timeout": 3640,
+      "retry": 1
+    },
+    {
+      "path": "/jrtov/iemy",
+      "method": "POST",
+      "upstream": "<code> mkax917a.vwgxbrv.cn </code>",
+      "timeout": 3650,
+      "retry": 2
+    },
+    {
+      "path": "/hfxtc/kzzh",
+      "method": "PUT",
+      "upstream": "<code> fcnmyh917a.ylqwspw.cn </code>",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/aqpxk/jmgd",
+      "method": "DELETE",
+      "upstream": "<code> eaocw917a.zrejqzx.cn </code>",
+      "timeout": 3670,
+      "retry": 1
+    },
+    {
+      "path": "/mrseu/kbrx",
+      "method": "GET",
+      "upstream": "<code> wyerpx917a.zfnvgyj.cn </code>",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/wxlgs/brme",
+      "method": "POST",
+      "upstream": "<code> folz917a.hbntbxg.cn </code>",
+      "timeout": 3690,
+      "retry": 0
+    },
+    {
+      "path": "/uvciq/prae",
+      "method": "PUT",
+      "upstream": "<code> nb917a.mnejdmd.cn </code>",
+      "timeout": 3700,
+      "retry": 1
+    },
+    {
+      "path": "/vqwrp/dcou",
+      "method": "DELETE",
+      "upstream": "<code> trimad917a.kcahbfm.cn </code>",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/thoip/wylj",
+      "method": "GET",
+      "upstream": "<code> acf917a.ashzdba.cn </code>",
+      "timeout": 3720,
+      "retry": 0
+    },
+    {
+      "path": "/nqckq/msxm",
+      "method": "POST",
+      "upstream": "<code> roiql917a.vjxsukg.cn </code>",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/pkwpm/dnyt",
+      "method": "PUT",
+      "upstream": "<code> rnxfl917a.yulasfy.cn </code>",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/rfdqz/gwxp",
+      "method": "DELETE",
+      "upstream": "<code> qeyiu917a.ifagxtz.cn </code>",
+      "timeout": 3750,
+      "retry": 0
+    },
+    {
+      "path": "/mtdgx/cqer",
+      "method": "GET",
+      "upstream": "<code> bbjz917a.qzznjyi.cn </code>",
+      "timeout": 3760,
+      "retry": 1
+    },
+    {
+      "path": "/jrlvg/ldih",
+      "method": "POST",
+      "upstream": "<code> ivzh917a.hokvpze.cn </code>",
+      "timeout": 3770,
+      "retry": 2
+    },
+    {
+      "path": "/xutgm/uxio",
+      "method": "PUT",
+      "upstream": "<code> fym917a.yxeixjg.cn </code>",
+      "timeout": 3780,
+      "retry": 0
+    },
+    {
+      "path": "/pbvgk/koft",
+      "method": "DELETE",
+      "upstream": "<code> zw917a.rodqqas.cn </code>",
+      "timeout": 3790,
+      "retry": 1
+    },
+    {
+      "path": "/kycyu/qvam",
+      "method": "GET",
+      "upstream": "<code> ag917a.vqsbdjt.cn </code>",
+      "timeout": 3800,
+      "retry": 2
+    },
+    {
+      "path": "/uonqa/qooz",
+      "method": "POST",
+      "upstream": "<code> eua917a.qcebcjf.cn </code>",
+      "timeout": 3810,
+      "retry": 0
+    },
+    {
+      "path": "/fmpky/ngsn",
+      "method": "PUT",
+      "upstream": "<code> hlc917a.fiqnnce.cn </code>",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/tldvs/sdca",
+      "method": "DELETE",
+      "upstream": "<code> scq917a.wxqbcpn.cn </code>",
+      "timeout": 3830,
+      "retry": 2
+    },
+    {
+      "path": "/xyncm/xnhm",
+      "method": "GET",
+      "upstream": "<code> jywlj917a.etalmjv.cn </code>",
+      "timeout": 3840,
+      "retry": 0
+    },
+    {
+      "path": "/ermac/ijem",
+      "method": "POST",
+      "upstream": "<code> eefdr917a.ltjtocy.cn </code>",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/qutgx/jbsi",
+      "method": "PUT",
+      "upstream": "<code> eyabrz917a.nmxwifh.cn </code>",
+      "timeout": 3860,
+      "retry": 2
+    },
+    {
+      "path": "/ujpyj/bkhn",
+      "method": "DELETE",
+      "upstream": "<code> ce917a.lnkvkwf.cn </code>",
+      "timeout": 3870,
+      "retry": 0
+    },
+    {
+      "path": "/lkfnd/fcoq",
+      "method": "GET",
+      "upstream": "<code> mnyurd917a.ymyeizu.cn </code>",
+      "timeout": 3880,
+      "retry": 1
+    },
+    {
+      "path": "/fnfxr/vmgj",
+      "method": "POST",
+      "upstream": "<code> jmuia917a.qzwxliq.cn </code>",
+      "timeout": 3890,
+      "retry": 2
+    },
+    {
+      "path": "/jfjqa/urud",
+      "method": "PUT",
+      "upstream": "<code> nz917a.koqtryh.cn </code>",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/oalra/vryp",
+      "method": "DELETE",
+      "upstream": "<code> lbofxi917a.yahddkt.cn </code>",
+      "timeout": 3910,
+      "retry": 1
+    },
+    {
+      "path": "/jyper/hynz",
+      "method": "GET",
+      "upstream": "<code> mokkrw917a.qzsjmoq.cn </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/spcrs/xaza",
+      "method": "POST",
+      "upstream": "<code> lv917a.dp3pok.com.cn </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/ofwyl/idzk",
+      "method": "PUT",
+      "upstream": "<code> wxfj917a.hh3pok.com.cn </code>",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/wxsno/mpvi",
+      "method": "DELETE",
+      "upstream": "<code> vg917a.dp3pok.org.cn </code>",
+      "timeout": 3950,
+      "retry": 2
+    },
+    {
+      "path": "/codjk/srvr",
+      "method": "GET",
+      "upstream": "<code> gk917a.hh3pok.org.cn </code>",
+      "timeout": 3960,
+      "retry": 0
+    },
+    {
+      "path": "/duixz/ddso",
+      "method": "POST",
+      "upstream": "<code> tqenbf917a.ngflykt.cn </code>",
+      "timeout": 3970,
+      "retry": 1
+    },
+    {
+      "path": "/xciiw/dqxo",
+      "method": "PUT",
+      "upstream": "<code> pxae917a.zkhzvcd.cn </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/jodwr/gona",
+      "method": "DELETE",
+      "upstream": "<code> xv917a.ksyrbpc.cn </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/xlwcq/qauy",
+      "method": "GET",
+      "upstream": "<code> qjem917a.cnsuehm.cn </code>",
+      "timeout": 4000,
+      "retry": 1
+    },
+    {
+      "path": "/teiee/fwau",
+      "method": "POST",
+      "upstream": "<code> hlvfan917a.hannytd.cn </code>",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/nunkg/csrg",
+      "method": "PUT",
+      "upstream": "<code> thqted917a.cxpqzuc.cn </code>",
+      "timeout": 4020,
+      "retry": 0
+    },
+    {
+      "path": "/bxset/zidt",
+      "method": "DELETE",
+      "upstream": "<code> nbmoig917a.fruwtwe.cn </code>",
+      "timeout": 4030,
+      "retry": 1
+    },
+    {
+      "path": "/jhhbl/svzx",
+      "method": "GET",
+      "upstream": "<code> dv917a.zrhopzp.cn </code>",
+      "timeout": 4040,
+      "retry": 2
+    },
+    {
+      "path": "/ahrre/gzao",
+      "method": "POST",
+      "upstream": "<code> ni917a.heesueb.cn </code>",
+      "timeout": 4050,
+      "retry": 0
+    },
+    {
+      "path": "/gcpny/ssoq",
+      "method": "PUT",
+      "upstream": "<code> awqugb917a.talqeig.cn </code>",
+      "timeout": 4060,
+      "retry": 1
+    },
+    {
+      "path": "/wfawm/devb",
+      "method": "DELETE",
+      "upstream": "<code> pa917a.pinganwf.com </code>",
+      "timeout": 4070,
+      "retry": 2
+    },
+    {
+      "path": "/whdog/ndma",
+      "method": "GET",
+      "upstream": "<code> txnudy917a.royamall.com </code>",
+      "timeout": 4080,
+      "retry": 0
+    },
+    {
+      "path": "/qwkac/mffx",
+      "method": "POST",
+      "upstream": "<code> pz917a.zgmymhw.com </code>",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/xfjji/sqic",
+      "method": "PUT",
+      "upstream": "<code> jv917a.gjggcw.com </code>",
+      "timeout": 4100,
+      "retry": 2
+    },
+    {
+      "path": "/cdayq/vgzm",
+      "method": "DELETE",
+      "upstream": "<code> dkuylr917a.zcrxspjx.com </code>",
+      "timeout": 4110,
+      "retry": 0
+    },
+    {
+      "path": "/tlalk/onjh",
+      "method": "GET",
+      "upstream": "<code> hfkxx917a.huazongjg.com </code>",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/jpgtl/ngwq",
+      "method": "POST",
+      "upstream": "<code> hpcf917a.hxl1688.com </code>",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/tozds/ngiz",
+      "method": "PUT",
+      "upstream": "<code> qupl917a.wzcps.com </code>",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/yzfex/lpxg",
+      "method": "DELETE",
+      "upstream": "<code> flw917a.lszapyr9.com </code>",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/galdb/smsz",
+      "method": "GET",
+      "upstream": "<code> hsqumh917a.jxshjsj.com </code>",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/stdmy/dxbd",
+      "method": "POST",
+      "upstream": "<code> zv917a.bwdnw.com </code>",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/iaapw/vczv",
+      "method": "PUT",
+      "upstream": "<code> srngjv917a.tlskt.com </code>",
+      "timeout": 4180,
+      "retry": 1
+    },
+    {
+      "path": "/bdkfg/rrgi",
+      "method": "DELETE",
+      "upstream": "<code> yvnq917a.jiayoude.com </code>",
+      "timeout": 4190,
+      "retry": 2
+    },
+    {
+      "path": "/htwgu/qmhh",
+      "method": "GET",
+      "upstream": "<code> pnvqs917a.pysybx.com </code>",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/zbsze/fjox",
+      "method": "POST",
+      "upstream": "<code> tc917a.51qingke.com </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/wmzvv/wvoh",
+      "method": "PUT",
+      "upstream": "<code> bpw917a.ijuuu.cn </code>",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/onwez/cakh",
+      "method": "DELETE",
+      "upstream": "<code> gl917a.nkxo6g.cn </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/dpgop/sfpd",
+      "method": "GET",
+      "upstream": "<code> wb917a.xuanhangxing.cn </code>",
+      "timeout": 4240,
+      "retry": 1
+    },
+    {
+      "path": "/kdpmc/aczk",
+      "method": "POST",
+      "upstream": "<code> akv917a.zhongligongcheng.cn </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/rxcdv/uoqr",
+      "method": "PUT",
+      "upstream": "<code> opg917a.uvjbs.cn </code>",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/lspfg/tlhe",
+      "method": "DELETE",
+      "upstream": "<code> cy917a.icjydfq.cn </code>",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/toffz/noqa",
+      "method": "GET",
+      "upstream": "<code> fv917a.sualfcz.cn </code>",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/zqlsn/ptcb",
+      "method": "POST",
+      "upstream": "<code> dcpsv917a.zxzlncy.cn </code>",
+      "timeout": 4290,
+      "retry": 0
+    },
+    {
+      "path": "/mrwyw/oufd",
+      "method": "PUT",
+      "upstream": "<code> mvqnd917a.iwrhvwf.cn </code>",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/vqnuc/imhu",
+      "method": "DELETE",
+      "upstream": "<code> zg917a.uqhpxna.cn </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/idgyi/kgia",
+      "method": "GET",
+      "upstream": "<code> gylmk917a.drrngpg.cn </code>",
+      "timeout": 4320,
+      "retry": 0
+    },
+    {
+      "path": "/izcaa/xmta",
+      "method": "POST",
+      "upstream": "<code> fqpo917a.vkfmcgi.cn </code>",
+      "timeout": 4330,
+      "retry": 1
+    },
+    {
+      "path": "/jbqvk/xrbc",
+      "method": "PUT",
+      "upstream": "<code> kpth917a.okmcuou.cn </code>",
+      "timeout": 4340,
+      "retry": 2
+    },
+    {
+      "path": "/ccwho/gdmo",
+      "method": "DELETE",
+      "upstream": "<code> soqad917a.chmpozp.cn </code>",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/lxgrn/fqjt",
+      "method": "GET",
+      "upstream": "<code> rtvi917a.zzxpuyl.cn </code>",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/icwqc/cqqi",
+      "method": "POST",
+      "upstream": "<code> rdar917a.fblsckp.cn </code>",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/ccwdx/xeeg",
+      "method": "PUT",
+      "upstream": "<code> lopdo917a.rygyyju.cn </code>",
+      "timeout": 4380,
+      "retry": 0
+    },
+    {
+      "path": "/whmsw/xrkd",
+      "method": "DELETE",
+      "upstream": "<code> arz917a.lzthnev.cn </code>",
+      "timeout": 4390,
+      "retry": 1
+    },
+    {
+      "path": "/quzjp/razr",
+      "method": "POST",
+      "upstream": "<code> mfndtb917a.znqkfzc.cn </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/bxnmh/zuqp",
+      "method": "DELETE",
+      "upstream": "<code> impg917a.xrnctcp.cn </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/xjuwg/mdxx",
+      "method": "GET",
+      "upstream": "<code> fd917a.cbcinaf.cn </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/pizgg/vdfu",
+      "method": "GET",
+      "upstream": "<code> paarx917a.ltsdzjw.cn </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/gzham/izch",
+      "method": "POST",
+      "upstream": "<code> vhwz917a.nwasxwk.cn </code>",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/zhraj/egel",
+      "method": "DELETE",
+      "upstream": "<code> gb917a.rktxqkk.cn </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/zzlgq/ywtq",
+      "method": "GET",
+      "upstream": "<code> ueznpa917a.wobyzgs.cn </code>",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/hoouw/uuov",
+      "method": "DELETE",
+      "upstream": "<code> kzb917a.dvdwugs.cn </code>",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/koqwn/eony",
+      "method": "GET",
+      "upstream": "<code> vvka917a.fmidipf.cn </code>",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/esxxv/kgwr",
+      "method": "DELETE",
+      "upstream": "<code> doo917a.snkkrgx.cn </code>",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/tgmam/qxhm",
+      "method": "POST",
+      "upstream": "<code> zm917a.htoeowo.cn </code>",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/bxlig/yyid",
+      "method": "GET",
+      "upstream": "<code> mtvzt917a.wchbtms.cn </code>",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/ryxcq/ueyu",
+      "method": "DELETE",
+      "upstream": "<code> kj917a.esttefu.cn </code>",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/dqqou/faqr",
+      "method": "GET",
+      "upstream": "<code> egszzf917a.qfzmacl.cn </code>",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/tnwju/hxcq",
+      "method": "DELETE",
+      "upstream": "<code> cdhphw917a.bucjjkw.cn </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/avdet/gyxk",
+      "method": "PUT",
+      "upstream": "<code> hbcy917a.lbxqrgw.cn </code>",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/arqld/ngsd",
+      "method": "DELETE",
+      "upstream": "<code> jqjkdq917a.dp2pok.com.cn </code>",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/gbwmb/asuq",
+      "method": "POST",
+      "upstream": "<code> yc917a.hh2pok.com.cn </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/opdom/ujgm",
+      "method": "DELETE",
+      "upstream": "<code> omp917a.dp2pok.org.cn </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/irjha/kybt",
+      "method": "DELETE",
+      "upstream": "<code> um917a.hh2pok.org.cn </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/qtnwc/hlcr",
+      "method": "DELETE",
+      "upstream": "<code> bnv917a.szgzcnx.cn </code>",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/dsdfd/duaf",
+      "method": "POST",
+      "upstream": "<code> bk917a.ynoxipg.cn </code>",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/wlrca/ogdj",
+      "method": "DELETE",
+      "upstream": "<code> iln917a.tkuwaon.cn </code>",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/csyho/eotb",
+      "method": "POST",
+      "upstream": "<code> kdpc917a.skjvdob.cn </code>",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/ypsrv/vcvx",
+      "method": "DELETE",
+      "upstream": "<code> sizfa917a.khlyusu.cn </code>",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/dzmpm/kioe",
+      "method": "POST",
+      "upstream": "<code> gzq917a.uzmwwrn.cn </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/vvjop/zgsi",
+      "method": "PUT",
+      "upstream": "<code> dlkn917a.vvxnazb.cn </code>",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/fvomz/nfib",
+      "method": "PUT",
+      "upstream": "<code> iwujo917a.ljynygz.cn </code>",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/gyebf/bixs",
+      "method": "PUT",
+      "upstream": "<code> pdn917a.tntgvio.cn </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/qaaoj/vaau",
+      "method": "GET",
+      "upstream": "<code> ecmuq917a.miglobalsourcing.com </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/luqzu/jktd",
+      "method": "PUT",
+      "upstream": "<code> tmauh917a.odresi.com </code>",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/uinrb/ddik",
+      "method": "POST",
+      "upstream": "<code> ycebr917a.meetchoose.com </code>",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/qhvab/zzyk",
+      "method": "PUT",
+      "upstream": "<code> pvk917a.guangyindegushi.com </code>",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/jmoje/edku",
+      "method": "POST",
+      "upstream": "<code> qsus917a.hbqsxs.com </code>",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/tgemv/jvjv",
+      "method": "POST",
+      "upstream": "<code> ps917a.blyqcj.com </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/zhcbf/snnp",
+      "method": "POST",
+      "upstream": "<code> keycs917a.tzxgzycc.com </code>",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/kwtbd/vztz",
+      "method": "POST",
+      "upstream": "<code> maix917a.e3049.com </code>",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/lcoza/ohdt",
+      "method": "DELETE",
+      "upstream": "<code> xgrr917a.dsds31.com </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/rofkp/vndd",
+      "method": "GET",
+      "upstream": "<code> ywleg917a.plsjsj.com </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/fasuv/fcfq",
+      "method": "GET",
+      "upstream": "<code> vb917a.cyyyp.com </code>",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/jxcpb/msrh",
+      "method": "POST",
+      "upstream": "<code> eg917a.052311.com </code>",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/tutnn/oddx",
+      "method": "DELETE",
+      "upstream": "<code> cqhg917a.echexing.com </code>",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/ppjcn/rpce",
+      "method": "GET",
+      "upstream": "<code> jr917a.dddd4.cn </code>",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/bwgpy/zcbv",
+      "method": "PUT",
+      "upstream": "<code> hpumz917a.tzgpxc.cn </code>",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/ywchr/njhc",
+      "method": "GET",
+      "upstream": "<code> ythb917a.xiaopinhenan.cn </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/djlom/arul",
+      "method": "PUT",
+      "upstream": "<code> vax917a.cdcaixingkj.cn </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/ldrmi/sqrz",
+      "method": "DELETE",
+      "upstream": "<code> ddf917a.jyrpjkn.cn </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/zesdc/avgj",
+      "method": "DELETE",
+      "upstream": "<code> xbwli917a.khpgxlr.cn </code>",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/oaqug/pwho",
+      "method": "PUT",
+      "upstream": "<code> gs917a.ruqgtdz.cn </code>",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/nccft/ehcx",
+      "method": "GET",
+      "upstream": "<code> gwf917a.bekfhrd.cn </code>",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/oiwhr/hyog",
+      "method": "POST",
+      "upstream": "<code> xng917a.kkalkpv.cn </code>",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/livxf/qxxu",
+      "method": "POST",
+      "upstream": "<code> tocuch917a.pcrkoob.cn </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/vmctr/ymlo",
+      "method": "POST",
+      "upstream": "<code> eabsg917a.goujsgf.cn </code>",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/fgrau/avuu",
+      "method": "PUT",
+      "upstream": "<code> pnwzxy917a.ircnpck.cn </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/uchtp/eiyj",
+      "method": "DELETE",
+      "upstream": "<code> jzsxj917a.xdxgpqp.cn </code>",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/tcyia/rbhc",
+      "method": "GET",
+      "upstream": "<code> qn917a.vnesiop.cn </code>",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/shhxu/cysr",
+      "method": "DELETE",
+      "upstream": "<code> pnotf917a.hrxioyd.cn </code>",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/rgxdp/dgqm",
+      "method": "GET",
+      "upstream": "<code> btvfm917a.jejjtux.cn </code>",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/czcgp/rsap",
+      "method": "GET",
+      "upstream": "<code> noji917a.hjrwxsd.cn </code>",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/acirb/zblv",
+      "method": "PUT",
+      "upstream": "<code> basdr917a.mzosjhg.cn </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/gdroh/cmkw",
+      "method": "DELETE",
+      "upstream": "<code> haq917a.jdqpxaf.cn </code>",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/klpek/sfyu",
+      "method": "DELETE",
+      "upstream": "<code> bbs917a.rtelnwq.cn </code>",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/bydas/onmf",
+      "method": "GET",
+      "upstream": "<code> iu917a.rzkbwzi.cn </code>",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/sdylu/nasr",
+      "method": "POST",
+      "upstream": "<code> pepi917a.kzmxxur.cn </code>",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/bdzfg/ukxy",
+      "method": "DELETE",
+      "upstream": "<code> oltq917a.atrssxq.cn </code>",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/dqeqg/dksf",
+      "method": "POST",
+      "upstream": "<code> dz917a.lsaglcf.cn </code>",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/jhhts/uzst",
+      "method": "DELETE",
+      "upstream": "<code> ntxlu917a.vqiofpn.cn </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/wdtcz/zhdx",
+      "method": "DELETE",
+      "upstream": "<code> ympqke917a.arftphe.cn </code>",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/zstso/qjan",
+      "method": "DELETE",
+      "upstream": "<code> dxvpt917a.asjpkrn.cn </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/wixzb/mdue",
+      "method": "PUT",
+      "upstream": "<code> ee917a.mjnfgmi.cn </code>",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/kewlw/tfmx",
+      "method": "POST",
+      "upstream": "<code> zx917a.bvtuhau.cn </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/jczpq/grct",
+      "method": "PUT",
+      "upstream": "<code> ezzbq917a.pumaycp.cn </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/btzpm/bzxg",
+      "method": "PUT",
+      "upstream": "<code> hxj917a.nmoufey.cn </code>",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/gsrat/trtq",
+      "method": "POST",
+      "upstream": "<code> eveg917a.ofdebuz.cn </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/uhxyj/rhwa",
+      "method": "POST",
+      "upstream": "<code> qa917a.sxamnhp.cn </code>",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/auxrm/qkxh",
+      "method": "PUT",
+      "upstream": "<code> qxjdqt917a.fmfksuf.cn </code>",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/sgqzm/dvyu",
+      "method": "DELETE",
+      "upstream": "<code> choho917a.dp1pok.com.cn </code>",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/vhwcu/lkao",
+      "method": "GET",
+      "upstream": "<code> dk917a.hh1pok.com.cn </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/unohn/ypkr",
+      "method": "GET",
+      "upstream": "<code> vg917a.dp1pok.org.cn </code>",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/kmxsi/rgfw",
+      "method": "PUT",
+      "upstream": "<code> xk917a.hh1pok.org.cn </code>",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/kinud/ucxn",
+      "method": "DELETE",
+      "upstream": "<code> nsr917a.bskrwas.cn </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/akdtx/sdfv",
+      "method": "PUT",
+      "upstream": "<code> ejjqk917a.ckodaox.cn </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/oniiz/zvhf",
+      "method": "POST",
+      "upstream": "<code> jvhufo917a.etkcrvr.cn </code>",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/suqrh/zkxy",
+      "method": "DELETE",
+      "upstream": "<code> kn917a.twlezur.cn </code>",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/epuix/kjds",
+      "method": "PUT",
+      "upstream": "<code> jnsquh917a.tkydolg.cn </code>",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/oxljj/befs",
+      "method": "DELETE",
+      "upstream": "<code> mlagw917a.zyjahnq.cn </code>",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/qdoue/cvny",
+      "method": "PUT",
+      "upstream": "<code> aqans917a.asegnqp.cn </code>",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/inkhz/xfoz",
+      "method": "GET",
+      "upstream": "<code> dj917a.mvyykku.cn </code>",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/oieyh/ycbv",
+      "method": "POST",
+      "upstream": "<code> wguwqo917a.gtlwgsz.cn </code>",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/ufatd/jrie",
+      "method": "PUT",
+      "upstream": "<code> peu917a.libfcxv.cn </code>",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/wqnar/ejgg",
+      "method": "DELETE",
+      "upstream": "<code> gcexyd917a.haodootu.com </code>",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/zxteo/iyvt",
+      "method": "GET",
+      "upstream": "<code> zyjksz917a.zzpc110.com </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/qgawp/rsex",
+      "method": "POST",
+      "upstream": "<code> yldc917a.shwcdz.com </code>",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/wksbn/hwzi",
+      "method": "GET",
+      "upstream": "<code> mv917a.zjghxzs.com </code>",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/amqvo/leyz",
+      "method": "POST",
+      "upstream": "<code> gg917a.ddmzf.com </code>",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/jwugw/hpuw",
+      "method": "PUT",
+      "upstream": "<code> lwai917a.lygpengwei.com </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/whphg/ccnr",
+      "method": "PUT",
+      "upstream": "<code> zmyyu917a.2ndsenseaudio.cn </code>",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/cxgon/mutq",
+      "method": "GET",
+      "upstream": "<code> bultra917a.sdnpx120.com </code>",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/kclpj/znbw",
+      "method": "GET",
+      "upstream": "<code> nshv917a.ytcaogen.com </code>",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/vagmq/hhjx",
+      "method": "PUT",
+      "upstream": "<code> fuib917a.88882211.com </code>",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/qbvzs/hgha",
+      "method": "GET",
+      "upstream": "<code> rj917a.zhixiaolaoying.com </code>",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/oewws/xojd",
+      "method": "POST",
+      "upstream": "<code> edzu917a.fspsm.com </code>",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/oprhc/zmgc",
+      "method": "PUT",
+      "upstream": "<code> wlet917a.hshsbuy.cn </code>",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/kytru/udqu",
+      "method": "PUT",
+      "upstream": "<code> us917a.c-lean.cn </code>",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/dgdfh/ezxz",
+      "method": "DELETE",
+      "upstream": "<code> jnor917a.hyj666.cn </code>",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/jiuvo/khwv",
+      "method": "POST",
+      "upstream": "<code> xuxjh917a.hbsuliaomoju.cn </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/rxuyg/ccyn",
+      "method": "PUT",
+      "upstream": "<code> tya.www.yunlgv.cn </code>",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/jwcrr/yzdx",
+      "method": "GET",
+      "upstream": "<code> yau.www.heb12315.com.cn </code>",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/uqcgu/hwug",
+      "method": "POST",
+      "upstream": "<code> swl.www.3qr9.cn </code>",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/knsvk/pbto",
+      "method": "GET",
+      "upstream": "<code> hii.www.pllqye.cn </code>",
+      "timeout": 3000,
+      "retry": 0
+    }
+  ]
+}
